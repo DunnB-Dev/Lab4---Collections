@@ -26,10 +26,10 @@ This lab will reinforce topics covered in the lectures about working with simple
 ## Part 2: Getting an Array from a User
 
 1.  Inside of your main method, do the following:
-    1.1. Prompt the user for the **number of integers** they would like to enter.
-    1.2. Create a **new array of integers** of that size.
-    1.3. Using a **for-loop**, prompt the user for each number individually, and store them into the array that you just created.
-    1.4. Once they have entered all of the numbers, use your **`GetAverage`** method from **Part 1** to display the average value of the user’s input.
+2. Prompt the user for the **number of integers** they would like to enter.
+3. Create a **new array of integers** of that size.
+4.  Using a **for-loop**, prompt the user for each number individually, and store them into the array that you just created.
+5. Once they have entered all of the numbers, use your **`GetAverage`** method from **Part 1** to display the average value of the user’s input.
 
 ***
 
